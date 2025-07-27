@@ -1,6 +1,10 @@
 # Extrude-O-Matic
 a simple tool to help calibrate your extruder
 
+<img width="2560" height="1233" alt="Extrude-O-Matic top" src="https://github.com/user-attachments/assets/c557f741-b44e-40e5-b72e-2fa8d376fac1" />
+
+<img width="2560" height="1233" alt="Extrude-O-Matic iso" src="https://github.com/user-attachments/assets/de110006-7d60-4ab4-b769-6542ed52f905" />
+
 I created this tool after some discusion on the Voron discord.
 A tool that uses a Digital Caliper to Calibrate you extruder more accurately.
 
