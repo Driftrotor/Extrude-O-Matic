@@ -14,6 +14,7 @@ I set about getting my design ideas down to work towards...
 - minimal or no fixings required
 - simple easy prints
 - must be possible to use without cutting filament
+- Printable on a V0
 
 with these i have come up with something that should work reasonably well.
 - it has a slot in the top where the bowden tube can be inserted, ensuring you dont need to thread the filament through afterwards.
